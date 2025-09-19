@@ -7,5 +7,5 @@
 body{
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(green, blue, red);
+    background: linear-gradient(#CF2425,#FFF, #da3b3f)
 }
